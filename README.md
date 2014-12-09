@@ -1,4 +1,1 @@
-bibbleandsip
-============
-
-bibbleandsip.com
+Abraneo theme
